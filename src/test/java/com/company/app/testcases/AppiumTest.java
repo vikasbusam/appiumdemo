@@ -78,5 +78,9 @@ public class AppiumTest extends Base {
 		AppiumManager.stopServer();
 	}
 	
+	public void t2() {
+		
+	}
+	
 	
 }
