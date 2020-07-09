@@ -80,6 +80,10 @@ public class AppiumTest extends Base {
 	
 	public void t2() {
 		
+		//branch master
+		//branch
+		//branch1
+		
 	}
 	
 	
